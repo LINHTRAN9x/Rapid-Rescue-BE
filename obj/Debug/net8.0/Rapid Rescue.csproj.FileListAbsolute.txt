@@ -1,0 +1,32 @@
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\appsettings.Development.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\appsettings.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Rapid Rescue.exe
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Rapid Rescue.deps.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Rapid Rescue.runtimeconfig.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Rapid Rescue.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Rapid Rescue.pdb
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.csproj.AssemblyReference.cache
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.AssemblyInfoInputs.cache
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.AssemblyInfo.cs
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.csproj.CoreCompileInputs.cache
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.MvcApplicationPartsAssemblyInfo.cs
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.MvcApplicationPartsAssemblyInfo.cache
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets.build.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets.development.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets\msbuild.Rapid Rescue.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets\msbuild.build.Rapid Rescue.props
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Rapid Rescue.props
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Rapid Rescue.props
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\scopedcss\bundle\Rapid Rescue.styles.css
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Re.828AB762.Up2Date
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\refint\Rapid Rescue.dll
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.pdb
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\Rapid Rescue.genruntimeconfig.cache
+C:\SchoolFolder\WebApplication1\Rapid Rescue\obj\Debug\net8.0\ref\Rapid Rescue.dll

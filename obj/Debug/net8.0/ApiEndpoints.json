@@ -1,0 +1,100 @@
+[
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.HomeController",
+    "Method": "ContactusQuery",
+    "RelativePath": "api/home/contactusQuerys",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.HomeController",
+    "Method": "CreateContactQuery",
+    "RelativePath": "api/home/createContactQuery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Rapid_Rescue.DTO.RequestModel.CreateContactQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.HomeController",
+    "Method": "DeleteContactQuery",
+    "RelativePath": "api/home/deleteContactQuery",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.HomeController",
+    "Method": "DeleteImageGallery",
+    "RelativePath": "api/home/deleteimageGallery",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/home/firstaidinstruction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.HomeController",
+    "Method": "IndexImage",
+    "RelativePath": "api/home/imageGallery",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Rapid_Rescue.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Rapid_Rescue.WeatherForecast, RapidRescue, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
